@@ -172,7 +172,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>). Thw workshop will have a blended form: one half of the participants can join in person and the other half will join remotely via Zoom (link will be provided to registered participants).
 </p>
 
 {% comment %}
@@ -245,7 +245,8 @@ you can use the section below.
 
 Move the 'endcomment' tag above the beginning of the following
 <p> tag to make this section visible.
-
+{% endcomment %}
+  
 Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to affiliates to ABC university.
 - This workshop is open to the public.
@@ -254,9 +255,10 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to bachelor students of history at Aarhus University.
+    This workshop is open to bachelor students of history at Aarhus University. If you are interested in attending this workshop, contact adela@cas.au.dk
+  and you will obtain a Zoom link to join the workshop remotely.
 </p>
-{% endcomment %}
+
 
 <hr/>
 
