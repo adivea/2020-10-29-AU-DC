@@ -255,8 +255,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to bachelor students of history at Aarhus University. If you are interested in attending this workshop, contact adela@cas.au.dk
-  and you will obtain a Zoom link to join the workshop remotely.
+    This workshop is open to bachelor students of history at Aarhus University. Due to the recent Covid19 restrictions, there number of in-person seats are limited but the workshop will run in a blended form (over Zoom). If you are interested in attending this workshop, contact *adela@cas.au.dk* and you will obtain a Zoom link to join the workshop remotely.
 </p>
 
 
