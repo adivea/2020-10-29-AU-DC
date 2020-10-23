@@ -10,7 +10,7 @@ country: "dk"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "56.1724346"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "10.212030"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "29 Oct 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "29 Oct 2020 - 3 Dec 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "11:00 am - 2:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-10-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-12-03        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -254,7 +254,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to bachelor students of history at Aarhus University.
 </p>
 {% endcomment %}
 
@@ -282,7 +282,7 @@ Collaborative Notes
 
 If you want to use an Etherpad, go to
 
-https://pad.carpentries.org/YYYY-MM-DD-site
+https://pad.carpentries.org/2020-10-29-AU-DC
 
 where 'YYYY-MM-DD-site' is the identifier for your workshop,
 e.g., '2015-06-10-esu'.
