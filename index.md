@@ -247,12 +247,6 @@ Move the 'endcomment' tag above the beginning of the following
 <p> tag to make this section visible.
 {% endcomment %}
   
-Edit the text to match who can attend the workshop. For instance:
-- This workshop is open to affiliates to ABC university.
-- This workshop is open to the public.
-- If you are interested in attending this workshop, contact me@example.com
-  for more information
-
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
     This workshop is open to bachelor students of history at Aarhus University. Due to the recent Covid19 restrictions, there number of in-person seats are limited but the workshop will run in a blended form (over Zoom). If you are interested in attending this workshop, contact *adela@cas.au.dk* and you will obtain a Zoom link to join the workshop remotely.
